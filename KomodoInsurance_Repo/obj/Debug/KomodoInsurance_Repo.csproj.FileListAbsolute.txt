@@ -1,0 +1,6 @@
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoInsurance_Repo\bin\Debug\KomodoInsurance_Repo.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoInsurance_Repo\bin\Debug\KomodoInsurance_Repo.pdb
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoInsurance_Repo\obj\Debug\KomodoInsurance_Repo.csprojAssemblyReference.cache
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoInsurance_Repo\obj\Debug\KomodoInsurance_Repo.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoInsurance_Repo\obj\Debug\KomodoInsurance_Repo.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoInsurance_Repo\obj\Debug\KomodoInsurance_Repo.pdb

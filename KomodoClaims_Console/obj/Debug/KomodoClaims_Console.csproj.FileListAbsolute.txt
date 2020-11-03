@@ -1,0 +1,10 @@
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoClaims_Console\bin\Debug\KomodoClaims_Console.exe.config
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoClaims_Console\bin\Debug\KomodoClaims_Console.exe
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoClaims_Console\bin\Debug\KomodoClaims_Console.pdb
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoClaims_Console\bin\Debug\KomodoClaimsRepo.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoClaims_Console\bin\Debug\KomodoClaimsRepo.pdb
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoClaims_Console\obj\Debug\KomodoClaims_Console.csprojAssemblyReference.cache
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoClaims_Console\obj\Debug\KomodoClaims_Console.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoClaims_Console\obj\Debug\KomodoClaims_Console.csproj.CopyComplete
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoClaims_Console\obj\Debug\KomodoClaims_Console.exe
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoClaims_Console\obj\Debug\KomodoClaims_Console.pdb

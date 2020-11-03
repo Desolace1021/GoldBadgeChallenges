@@ -1,0 +1,14 @@
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\bin\Debug\KomodoBadgeTest.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\bin\Debug\KomodoBadgeTest.pdb
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\obj\Debug\KomodoInsuranceTest.csprojAssemblyReference.cache
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\obj\Debug\KomodoInsuranceTest.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\obj\Debug\KomodoInsuranceTest.csproj.CopyComplete
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\obj\Debug\KomodoBadgeTest.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoBadgeTest\obj\Debug\KomodoBadgeTest.pdb

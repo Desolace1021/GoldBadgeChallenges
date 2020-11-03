@@ -1,0 +1,6 @@
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoCafe_Repository\bin\Debug\KomodoCafe_Repository.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoCafe_Repository\bin\Debug\KomodoCafe_Repository.pdb
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoCafe_Repository\obj\Debug\KomodoCafe_Repository.csprojAssemblyReference.cache
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoCafe_Repository\obj\Debug\KomodoCafe_Repository.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoCafe_Repository\obj\Debug\KomodoCafe_Repository.dll
+C:\Users\jonjo\source\repos\ConsoleApp1\KomodoCafe_Repository\obj\Debug\KomodoCafe_Repository.pdb
